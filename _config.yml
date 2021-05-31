@@ -20,20 +20,20 @@ tracking:
 
 # Let people connect & engage with you through social media.
 social:
-  twitter_handle: "MLHacks"
+  twitter_handle: "BJMedHacks"
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "BJ MedHacks | 5/6 August 2016"
+  title:       "BJ MedHacks | 11, 25-26 September 2021"
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
+  image:       ""
 
 # Event information.
 event:
-  name:        "Example Hacks"
+  name:        "BJ MedHacks"
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 & 6 August 2016"
-  location:    "Holmdel, NJ, United States"
+  date:        "11 & 25-26 September 2021"
+  location:    "Bob Jones High School"
 
   trust_badge:
     year:   "2017"  # season year
